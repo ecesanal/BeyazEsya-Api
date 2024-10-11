@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\controllers\\sogutucuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:controllers\\sogutucuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\views\\kategoris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:views\\kategoris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\controllers\\kategoriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:controllers\\kategoriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\migrations\\202410111151130_beyazesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:migrations\\202410111151130_beyazesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\models\\beyazcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:models\\beyazcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\models\\sogutucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:models\\sogutucu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\models\\beyazesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:models\\beyazesya.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\models\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:models\\kategori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|c:\\users\\e\\desktop\\beyazesya\\beyazesyaproject\\models\\camasirmakinesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F1FC846-E23C-48DD-B82B-D1CC035E2F15}|BeyazEsyaProject.csproj|solutionrelative:models\\camasirmakinesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SogutucusController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Controllers\\SogutucusController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SogutucusController.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Controllers\\SogutucusController.cs",
+              "RelativeToolTip": "Controllers\\SogutucusController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAADgvzcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:39:36.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Views\\Kategoris\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Kategoris\\Index.cshtml",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Views\\Kategoris\\Index.cshtml",
+              "RelativeToolTip": "Views\\Kategoris\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-11T12:37:01.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "KategorisController.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Controllers\\KategorisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\KategorisController.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Controllers\\KategorisController.cs",
+              "RelativeToolTip": "Controllers\\KategorisController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T12:34:04.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202410111151130_beyazesya.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Migrations\\202410111151130_beyazesya.cs",
+              "RelativeDocumentMoniker": "Migrations\\202410111151130_beyazesya.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Migrations\\202410111151130_beyazesya.cs",
+              "RelativeToolTip": "Migrations\\202410111151130_beyazesya.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:51:26.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:50:10.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEQAAACZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-11T11:44:32.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BeyazContext.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\BeyazContext.cs",
+              "RelativeDocumentMoniker": "Models\\BeyazContext.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\BeyazContext.cs",
+              "RelativeToolTip": "Models\\BeyazContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:39:25.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Sogutucu.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\Sogutucu.cs",
+              "RelativeDocumentMoniker": "Models\\Sogutucu.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\Sogutucu.cs",
+              "RelativeToolTip": "Models\\Sogutucu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:36:14.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CamasirMakinesi.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\CamasirMakinesi.cs",
+              "RelativeDocumentMoniker": "Models\\CamasirMakinesi.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\CamasirMakinesi.cs",
+              "RelativeToolTip": "Models\\CamasirMakinesi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:02:08.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kategori.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\Kategori.cs",
+              "RelativeDocumentMoniker": "Models\\Kategori.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\Kategori.cs",
+              "RelativeToolTip": "Models\\Kategori.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:37:01.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BeyazEsya.cs",
+              "DocumentMoniker": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\BeyazEsya.cs",
+              "RelativeDocumentMoniker": "Models\\BeyazEsya.cs",
+              "ToolTip": "C:\\Users\\e\\Desktop\\BeyazEsya\\BeyazEsyaProject\\Models\\BeyazEsya.cs",
+              "RelativeToolTip": "Models\\BeyazEsya.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:29:17.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
